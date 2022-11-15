@@ -79,9 +79,9 @@ Address Resolution Protocol (request)
 3. 
 Log Record 1 = HTTP
 Log Record 2 = FTP
-Log Record 3 = ADP
+Log Record 3 = TLS
 Log Record 4 = DNS 
-Log Record 5 = Address Resolution Protocol
+Log Record 5 = ARP
 
 BONUS
 
@@ -94,4 +94,4 @@ HCI Command - Read Local Supported Features
     [Response in frame: 4]
     [Command-Response Delta: 4.181ms]
 
-Log Record Bonus = HCI
+Log Record Bonus = Bluetooth
